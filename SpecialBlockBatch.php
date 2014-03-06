@@ -98,7 +98,7 @@ class SpecialBlockBatch extends FormSpecialPage {
 		$form->setHeaderText( '' );
 		$form->setSubmitCallback( array( __CLASS__, 'processUIForm' ) );
 
-		$msg = $this->alreadyBlocked ? 'ipb-change-block' : 'ipbsubmit';
+		$msg = $this->alreadyBlocked ? 'ipb-change-block' : 'blockbatch-ipbsubmit';
 		$form->setSubmitTextMsg( $msg );
 
 		# Don't need to do anything if the form has been posted
