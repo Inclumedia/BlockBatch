@@ -312,7 +312,7 @@ class SpecialBlockBatch extends FormSpecialPage {
 	protected function preText() {
 		$this->getOutput()->addModules( 'mediawiki.special.block' );
 
-		$text = $this->msg( 'blockiptext' )->parse();
+		$text = $this->msg( 'blockbatch-iptext' )->parse();
 
 		$otherBlockMessages = array();
 		if ( $this->target !== null ) {
