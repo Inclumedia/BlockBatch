@@ -25,13 +25,13 @@ Fill in a specific reason below (for example, citing particular pages that were 
 $messages[ 'de' ] = array(
 	'blockbatch' => "BlockBatch",
 	'blockbatch-desc' => "Ergänzt eine [[Special:BlockBatch|Spezialseite]] zum gesammelten Sperren von Benutzern",
-        'blockbatch-iptext' => 'Nutze das untenstehende Forumlar, um den Schreibzugriff bestimmter Benutzer oder IP-Adressen zu sperren. Dies sollte ausschließlich zur Verhinderung von Vandalismus und in Übereinstimmung mit der [[{{MediaWiki:Policy-url}}|Richtlinie diese Wikis]] erfolgen. Gib zudem einen Grund für die Sperrung an, bspw. den Hinweis auf die vadalisierten Inhalte.',
-        'blockbatch-ipbsubmit' => 'Benutzer sperren'
+	'blockbatch-iptext' => 'Nutze das untenstehende Forumlar, um den Schreibzugriff bestimmter Benutzer oder IP-Adressen zu sperren. Dies sollte ausschließlich zur Verhinderung von Vandalismus und in Übereinstimmung mit der [[{{MediaWiki:Policy-url}}|Richtlinie diese Wikis]] erfolgen. Gib zudem einen Grund für die Sperrung an, bspw. den Hinweis auf die vadalisierten Inhalte.',
+	'blockbatch-ipbsubmit' => 'Benutzer sperren'
 );
 
 /** German (formal address) (Deutsch (Sie-Form)‎)
  * @author Kghbln
  */
 $messages[ 'de-formal' ] = array(
-        'blockbatch-iptext' => 'Nutzen Sie das untenstehende Forumlar, um den Schreibzugriff bestimmter Benutzer oder IP-Adressen zu sperren. Dies sollte ausschließlich zur Verhinderung von Vandalismus und in Übereinstimmung mit der [[{{MediaWiki:Policy-url}}|Richtlinie diese Wikis]] erfolgen. Geben Sie zudem einen Grund für die Sperrung an, bspw. den Hinweis auf die vadalisierten Inhalte.'
+	'blockbatch-iptext' => 'Nutzen Sie das untenstehende Forumlar, um den Schreibzugriff bestimmter Benutzer oder IP-Adressen zu sperren. Dies sollte ausschließlich zur Verhinderung von Vandalismus und in Übereinstimmung mit der [[{{MediaWiki:Policy-url}}|Richtlinie diese Wikis]] erfolgen. Geben Sie zudem einen Grund für die Sperrung an, bspw. den Hinweis auf die vadalisierten Inhalte.'
         );
